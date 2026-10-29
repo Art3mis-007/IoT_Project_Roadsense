@@ -1,5 +1,5 @@
 # RoadSense
-Prototipe IoT dua iPhone: indikasi ketidakrataan permukaan berdasarkan guncangan.
+Prototipe IoT dua perangkat edge device: indikasi ketidakrataan permukaan berdasarkan guncangan.
 
 ## Publikasi GitHub Pages
 1. Buat repository PUBLIC bernama `roadsense` di akun `Art3mis-007`.
