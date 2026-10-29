@@ -1,6 +1,7 @@
 # RoadSense
 Prototipe IoT dua perangkat edge device: indikasi ketidakrataan permukaan berdasarkan guncangan.
 Web-based MQTT: https://art3mis-007.github.io/IoT_Project_Roadsense/
+Video Demo: https://youtu.be/Q5DBBN6F37U?si=eDD8f1orW-O77BFD
 
 ## Demo dua perangkat
 Buka URL HTTPS langsung di browser. Gunakan Wi-Fi/hotspot yang sama dan internet aktif.
